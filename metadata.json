@@ -1,0 +1,8 @@
+{
+  "name": "Aura",
+  "description": "A sleek, highly animated periods predictor and health insights application with personalized nutrition planning and symptom logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
